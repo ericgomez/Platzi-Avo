@@ -1,18 +1,19 @@
 {
   "version": "0.1.0",
   "name": "platzi-next",
-  "author": "@jonalvarezz",
+  "author": "@ericgomezmx",
   "private": true,
   "description": "",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "next",
+    "dev": "NODE_OPTIONS='--inspect' next",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "browserslist": "^4.16.3",
     "next": "^9.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
