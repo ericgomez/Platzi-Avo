@@ -12,6 +12,13 @@
   </a>
 </p>
 
+#### Proyecto del curso
+
+![proyect](https://static.platzi.com/media/landing-projects/proyecto-next.gif)
+
+## Platzi-Avo
+Haciendo uso de las capacidades de API de Next.js, crearemos tres endpoints para obtener información sobre nuestros queridos aguacates y posteriormente haciendo uso de React con TypeScript, Styled JSX, y mucho CSS (El CSS de la forma que quieras), para renderizar la información y hacerla interactiva. Las páginas y el SPA (Single Page Application) lo crearemos también con Next.js y miraremos #UnderTheHood para exprimir las capacidades de este framework.
+
 [Curso de Next.js](https://platzi.com/cursos/next-2020/) dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
 * [Cómo trabajar en este proyecto?](#-cómo-trabajar-en-este-proyecto)
